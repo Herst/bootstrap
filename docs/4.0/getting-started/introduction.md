@@ -59,9 +59,10 @@ Be sure to have your pages set up with the latest design and development standar
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Hello, world!</title>
-    <!-- Required meta tags -->
+    <!-- Charset -->
     <meta charset="utf-8">
+    <title>Hello, world!</title>
+    <!-- Other required meta tags -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
